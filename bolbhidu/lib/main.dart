@@ -2,9 +2,9 @@ import 'package:bolbhidu/home_page.dart';
 import 'package:bolbhidu/pallete.dart';
 import 'package:flutter/material.dart';
 
-void main() {
+void main() =>
   runApp(const MyApp());
-}
+
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
